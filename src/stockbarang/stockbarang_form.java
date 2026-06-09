@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author ASUS
+ * @author Habibizaki
  */
 public class stockbarang_form extends javax.swing.JFrame {
     Connection conn;
